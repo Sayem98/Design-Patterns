@@ -1,1 +1,1 @@
-# Design-Patterns
+# Strategy Pattern
